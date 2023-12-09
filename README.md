@@ -1,6 +1,6 @@
 PENGGUNAAN
 
-Untuk menggunakan kode ini, Ubahlah pada bagian variabel $con sesuaikan dengan tool yang anda gunakan.
+Untuk menggunakan kode ini, Ubahlah functions.php pada bagian variabel $con sesuaikan dengan tool yang anda gunakan.
 
 Berikut untuk Konfigurasinya;
 
