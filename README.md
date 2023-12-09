@@ -12,4 +12,4 @@ Berikut untuk Konfigurasinya;
 
 DATABASE
 
-Silahkan Import database yang sudah disediakan, lakukan customisasi sesua dengan selera anda.
+Silahkan Import database yang sudah disediakan, lakukan customisasi sesuai dengan selera anda.
